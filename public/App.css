@@ -1,0 +1,17 @@
+h1 {
+    /* font-family: 'Sirin Stencil', cursive; */
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    display: flex;
+    justify-content: end;
+}
+
+.jumbo {
+ background-color: white;
+}
+
+.text {
+    background-color: white;
+    max-width: 100%;
+}
